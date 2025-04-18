@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* font-family: sans-serif; */
+}
+/* .menu-bar{
+background-image: linear-gradient(to right,#6db9ef,#7ce0);
+} */
+/* .nav-link{
+    font-size: 16px;
+    color: #452828;
+    margin: 2px;
+} */
+/* .container-fluid{
+position: absolute;
+} */
+
+.container .btn{
+    border:none;
+}
+.container p{
+    font-weight: 600;
+}
+.container h3{
+    font-weight: 700;
+} 
